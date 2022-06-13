@@ -1,0 +1,15 @@
+{
+    "degrees":[
+    {
+    "School":"Wright State University",
+    "Major": "International Business",
+    "Type":"BS",
+    "Year conferred":2012
+},
+{"School":"Boston University",
+    "Major": "Software Development",
+    "Type":"MS",
+    "Year conferred":2023
+}
+]
+}
